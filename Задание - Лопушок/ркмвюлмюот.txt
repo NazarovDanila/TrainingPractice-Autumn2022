@@ -1,0 +1,16 @@
+//private void ProductCard_DoubleClick(object sender, EventArgs e)
+        //{
+        //    this.BackColor = Color.FromArgb(0, 204, 118);
+        //    ProductPicture.BackColor = Color.FromArgb(0, 204, 118);
+        //    NameTypeProductLbl.BackColor = Color.FromArgb(0, 204, 118);
+        //    ArticleLbl.BackColor = Color.FromArgb(0, 204, 118);
+        //    MaterialLbl.BackColor = Color.FromArgb(0, 204, 118);
+        //    CostLbl.BackColor = Color.FromArgb(0, 204, 118);
+        //    MessageBox.Show("Здесь должно быть окно редактирования данных");
+        //    this.BackColor = Color.White;
+        //    ProductPicture.BackColor = Color.White;
+        //    NameTypeProductLbl.BackColor = Color.White;
+        //    ArticleLbl.BackColor = Color.White;
+        //    MaterialLbl.BackColor = Color.White;
+        //    CostLbl.BackColor = Color.White;
+        //}
